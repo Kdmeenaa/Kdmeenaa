@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Krishna Das Meena</h1>
-<h3 align="center"> HACKER| CYBERSECURITY | Java Backend Developer | Open Source Contributor | AI & ML Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Krishna Das Meena</span></h1>
+<h3 align="center">⚔️ HACKER | 🛡️ CYBERSECURITY | 💻 Java Backend Developer | 🌍 Open Source Contributor | 🤖 AI & ML Enthusiast</h3>
 
-<h3 align="center">Certifications Check My Linkdlen Profile (https://www.linkedin.com/in/KDMEENA-IIT)
-Oracle Cloud Infrastructure Networking Foundations (Oracle University)
-Cisco Networking Academy – Introduction to Cybersecurity
-CompTIA Security+ (In Progress – Exam in February 2026)
-Oracle Generative AI Foundations Associate
-Oracle AI Foundations</h3>
+---
+
+<h3 align="center">🎓 Certifications</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kdmeena-iit" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20My%20LinkedIn%20Profile-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🏅 <b>Oracle Cloud Infrastructure Networking Foundations</b> — Oracle University <br/>
+  🏅 <b>Cisco Networking Academy</b> — Introduction to Cybersecurity <br/>
+  🧠 <b>CompTIA Security+</b> — <i>In Progress (Exam in February 2026)</i> <br/>
+  🤖 <b>Oracle Generative AI Foundations Associate</b> <br/>
+  🧩 <b>Oracle AI Foundations</b>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kdmeenaa&label=Profile%20views&color=0e75b6&style=flat" alt="kdmeenaa" />
