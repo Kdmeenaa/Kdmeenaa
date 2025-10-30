@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krishna Das Meena</h1>
-<h3 align="center">Java Backend Developer | Open Source Contributor | AI & ML Enthusiast</h3>
+<h3 align="center"> HACKER| CYBERSECURITY | Java Backend Developer | Open Source Contributor | AI & ML Enthusiast</h3>
+
+<h3 align="center">Certifications Check My Linkdlen Profile (https://www.linkedin.com/in/KDMEENA-IIT)
+Oracle Cloud Infrastructure Networking Foundations (Oracle University)
+Cisco Networking Academy – Introduction to Cybersecurity
+CompTIA Security+ (In Progress – Exam in February 2026)
+Oracle Generative AI Foundations Associate
+Oracle AI Foundations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kdmeenaa&label=Profile%20views&color=0e75b6&style=flat" alt="kdmeenaa" />
