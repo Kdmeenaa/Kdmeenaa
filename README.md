@@ -1,93 +1,179 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00BFFF;">Krishna Das Meena</span><br/>
-  <span style="font-size:14px; font-weight:400; color:#888;">
-    📧 mek127142@gmail.com
-  </span>
-</h1>
+# 👋 Hi, I'm Krishna Das Meena
 
+### Java Software Engineer | 2+ YOE | Spring Boot | Microservices | REST APIs | Open Source
 
+I’m a **Java Software Engineer with 2+ years of experience** building backend applications and SaaS products using Java, Spring Boot, REST APIs, Microservices, and SQL.
 
-<h3 align="center">
-Java Backend Engineer | Spring Boot & Microservices | Open Source Contributor
-</h3>
+I enjoy solving backend engineering problems, improving system performance, fixing production issues, and contributing to open-source projects.
 
-<p align="center">
-Building scalable, production-grade backend systems with clean architecture and performance focus.
-</p>
+🚀 **Currently open to Software Engineering opportunities** across product companies, IT services, and technology organizations.
 
 ---
 
-<h3 align="center">🎓 Professional Certifications</h3>
+## 🟢 Open to Work
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kdmeena/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Verify%20Certifications%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Target Roles**
 
-<p align="center">
-  🏅 <b>Oracle Cloud Infrastructure 2025 – Developer Professional</b><br/>
-  🏅 <b>Oracle Cloud Infrastructure 2025 – DevOps Professional</b><br/>
-  🏅 <b>Oracle Cloud Infrastructure 2025 – Generative AI Professional</b><br/>
-  🏅 <b>Oracle Cloud Infrastructure – Foundations Associate</b><br/>
-  🏅 <b>Cisco Networking Academy – Introduction to Cybersecurity</b>
-</p>
+* Java Software Engineer
+* Java Backend Developer
+* Software Engineer
+* Backend Engineer
+* SDE / SDE-1 / SDE-2
+* Spring Boot Developer
+* Microservices Developer
+* Full Stack Java Developer
 
+**Preferred Technologies**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Actively%20Viewed%20by%20Recruiters-blue?style=flat" />
-</p>
+`Java` · `Spring Boot` · `Spring MVC` · `REST APIs` · `Microservices` · `Hibernate` · `JPA` · `SQL` · `Kafka` · `Redis` · `Docker`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributions%20Across%20Multiple%20Projects-success?style=flat" />
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kdmeenaa&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+**Open to opportunities with**
 
+`Infosys` · `TCS` · `HCLTech` · `Accenture` · `Wipro` · `Cognizant` · `Capgemini` · `Tech Mahindra` · `LTIMindtree` · `Oracle` · `Microsoft` · `Amazon` · `Google` · `IBM` · `Deloitte` · `EPAM` · `Mphasis` · `Persistent` · `Coforge` · `Product Companies` · `Startups`
+
+📍 **Open to relocation across India**
 
 ---
 
-###  Professional Summary
-- Java Backend Engineer with hands-on experience in **Spring Boot, REST APIs, and Microservices**
-- Actively contributing to **open-source Java and distributed systems projects**
-- Strong understanding of **LLD, HLD, performance tuning, and scalable backend design**
-- Comfortable working with **production systems, bug fixing, and code reviews**
-- Actively seeking **Java Backend Developer / SDE roles**
+## 💼 Professional Summary
+
+* Java Software Engineer with **2+ years of professional experience**
+* Hands-on experience with **Java, Spring Boot, REST APIs, Microservices, Hibernate/JPA and SQL**
+* Experience working on **backend applications and SaaS products**
+* Strong understanding of **OOP, Collections, Multithreading, Exception Handling and Java 8+**
+* Familiar with **LLD, HLD, System Design and scalable backend architecture**
+* Experience with **Kafka, Redis, Docker and CI/CD**
+* Comfortable with **production debugging, bug fixing, code reviews and performance optimization**
+* Actively contributing to **open-source Java and distributed-systems projects**
 
 ---
 
-###  Current Work
-- Contributing to open-source backend projects like `zio-http` and `golem-llm`
-- Designing and improving REST APIs using Spring Boot
-- Working with distributed systems concepts (Kafka, Redis)
-- Focused on writing clean, maintainable, and scalable backend code
+## 🛠️ Core Technical Skills
+
+### Languages
+
+`Java` · `SQL` · `Python`
+
+### Backend
+
+`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JDBC` · `REST APIs`
+
+### Architecture
+
+`Microservices` · `LLD` · `HLD` · `System Design` · `Distributed Systems`
+
+### Databases
+
+`PostgreSQL` · `MySQL` · `Oracle`
+
+### Messaging & Caching
+
+`Apache Kafka` · `Redis`
+
+### Frontend
+
+`React.js` · `Angular` · `JavaScript` · `HTML` · `CSS`
+
+### DevOps & Tools
+
+`Docker` · `Git` · `GitHub Actions` · `Maven` · `Linux` · `Postman`
+
+### Cloud
+
+`Oracle Cloud Infrastructure (OCI)` · `AWS`
+
+### Testing
+
+`JUnit` · `Mockito`
 
 ---
 
-###  Core Skills
-- **Languages:** Java, SQL  
-- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
-- **Databases:** PostgreSQL, MySQL  
-- **Messaging & Cache:** Kafka, Redis  
-- **DevOps & Tools:** Docker, Git, GitHub Actions, Maven  
-- **Cloud:** Oracle Cloud Infrastructure (OCI)  
-- **Concepts:** Microservices, LLD, HLD, System Design, Performance Optimization  
+## 🚀 Current Work
+
+* Building and improving **Java/Spring Boot backend applications**
+* Designing and developing **RESTful APIs**
+* Working with **Microservices architecture**
+* Working with distributed-system technologies such as **Kafka and Redis**
+* Debugging issues and improving application reliability and performance
+* Writing clean, maintainable and testable backend code
+* Contributing to open-source projects
 
 ---
 
-###  Open Source Contributions
-- 🔧 Fix: Multi-turn conversation bug – `golem-llm`
-- 🔄 ZIO HTTP – Netty modularization refactor discussion
-- 🛠️ IQKeyboardManagerSwift – UITableView scroll issue fix
+## 🌎 Open Source Contributions
+
+### 🔧 golem-llm
+
+**Multi-turn conversation bug fix**
+
+Worked on identifying and addressing a conversation-flow issue in an open-source project.
+
+### 🔄 ZIO HTTP
+
+**Netty modularization / refactoring discussion**
+
+Participated in technical discussions around HTTP infrastructure and modularization.
+
+### 🛠️ IQKeyboardManagerSwift
+
+**UITableView scrolling issue**
+
+Contributed to investigating and fixing a UI-related issue in an open-source project.
+
+> I focus on meaningful contributions rather than contribution-count optimization.
 
 ---
 
-###  Contact
-- 📧 Email: **mek127142@gmail.com**
-- 💼 LinkedIn: [Krishna Das Meena](https://www.linkedin.com/in/krishna-das-meena-b5971a207/)
-- 🐙 GitHub: [kdmeenaa](https://github.com/kdmeenaa)
+## 📌 Featured Projects
+
+### 🔹 Java / Spring Boot Backend
+
+Java-based backend application demonstrating:
+
+`Java` · `Spring Boot` · `REST APIs` · `JPA` · `PostgreSQL`
+
+### 🔹 Microservices System
+
+Distributed backend application demonstrating:
+
+`Spring Boot` · `Microservices` · `Kafka` · `Docker`
+
+### 🔹 Full Stack Application
+
+Full-stack application demonstrating:
+
+`Java` · `Spring Boot` · `REST APIs` · `React.js`
 
 ---
 
-###  Personal Note
-> I believe in **building systems that scale**, not just writing code that works.  
-> Open source for me is about **impact, ownership, and continuous improvement**.
+## 📈 Engineering Interests
+
+* Backend Engineering
+* Distributed Systems
+* Microservices
+* System Design
+* Performance Optimization
+* Cloud-Native Applications
+* Open Source
+* Developer Productivity
+* AI-assisted Software Engineering
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [mek127142@gmail.com](mailto:mek127142@gmail.com)
+
+💼 **LinkedIn:** [Krishna Das Meena](https://www.linkedin.com/in/krishna-das-meena-b5971a207/)
+
+🐙 **GitHub:** [kdmeenaa](https://github.com/kdmeenaa)
+
+---
+
+## 💡 Engineering Philosophy
+
+> **I believe in building systems that scale, not just writing code that works.**
+
+> **Open source is about impact, ownership, collaboration, and continuous improvement.**
+
+⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
