@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Krishna Das Meena
+# 👋 Hi, I'm Krishna Das Meena                     mek127142@gmail.com
 
-### Java Full Stack Software Engineer | 2+ YOE | Java | Spring Boot | Microservices | React | Angular | Open Source
+### Java Full Stack Software Engineer | 2.5 YOE | Java | Spring Boot | Microservices | React | Angular | Open Source
 
 I’m a **Java Full Stack Software Engineer with 2+ years of experience** building scalable web applications, backend services, REST APIs, and SaaS products using **Java, Spring Boot, Microservices, React.js, Angular, SQL, and cloud technologies**.
 
@@ -222,7 +222,7 @@ Includes frontend components, routing, forms, HTTP communication and backend API
 
 📧 **Email:** [mek127142@gmail.com](mailto:mek127142@gmail.com)
 
-💼 **LinkedIn:** [Krishna Das Meena](https://www.linkedin.com/in/krishna-das-meena-b5971a207/)
+💼 **LinkedIn:** [Krishna Das Meena](https://www.linkedin.com/in/kdmeena)
 
 🐙 **GitHub:** [kdmeenaa](https://github.com/kdmeenaa)
 
