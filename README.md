@@ -1,33 +1,49 @@
 # 👋 Hi, I'm Krishna Das Meena
 
-### Java Software Engineer | 2+ YOE | Spring Boot | Microservices | REST APIs | Open Source
+### Java Full Stack Software Engineer | 2+ YOE | Java | Spring Boot | Microservices | React | Angular | Open Source
 
-I’m a **Java Software Engineer with 2+ years of experience** building backend applications and SaaS products using Java, Spring Boot, REST APIs, Microservices, and SQL.
+I’m a **Java Full Stack Software Engineer with 2+ years of experience** building scalable web applications, backend services, REST APIs, and SaaS products using **Java, Spring Boot, Microservices, React.js, Angular, SQL, and cloud technologies**.
 
-I enjoy solving backend engineering problems, improving system performance, fixing production issues, and contributing to open-source projects.
+I enjoy building end-to-end applications, solving backend and frontend engineering problems, improving application performance, fixing production issues, and contributing to open-source projects.
 
-🚀 **Currently open to Software Engineering opportunities** across product companies, IT services, and technology organizations.
+🚀 **Currently open to Software Engineering, Java Backend, Java Full Stack, Spring Boot, React, and Angular opportunities.**
 
 ---
 
 ## 🟢 Open to Work
 
-**Target Roles**
+### Target Roles
 
 * Java Software Engineer
 * Java Backend Developer
+* Java Full Stack Developer
+* Full Stack Software Engineer
 * Software Engineer
 * Backend Engineer
 * SDE / SDE-1 / SDE-2
 * Spring Boot Developer
 * Microservices Developer
-* Full Stack Java Developer
+* React Developer
+* Angular Developer
+* Full Stack Developer
 
-**Preferred Technologies**
+### Primary Technology Stack
 
-`Java` · `Spring Boot` · `Spring MVC` · `REST APIs` · `Microservices` · `Hibernate` · `JPA` · `SQL` · `Kafka` · `Redis` · `Docker`
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `Microservices`
 
-**Open to opportunities with**
+### Frontend Stack
+
+`React.js` · `Angular` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Bootstrap`
+
+### Database & Backend Infrastructure
+
+`PostgreSQL` · `MySQL` · `Oracle` · `Kafka` · `Redis`
+
+### DevOps & Cloud
+
+`Docker` · `Git` · `GitHub Actions` · `Maven` · `Linux` · `AWS` · `Oracle Cloud Infrastructure`
+
+### Open to opportunities with
 
 `Infosys` · `TCS` · `HCLTech` · `Accenture` · `Wipro` · `Cognizant` · `Capgemini` · `Tech Mahindra` · `LTIMindtree` · `Oracle` · `Microsoft` · `Amazon` · `Google` · `IBM` · `Deloitte` · `EPAM` · `Mphasis` · `Persistent` · `Coforge` · `Product Companies` · `Startups`
 
@@ -37,52 +53,67 @@ I enjoy solving backend engineering problems, improving system performance, fixi
 
 ## 💼 Professional Summary
 
-* Java Software Engineer with **2+ years of professional experience**
-* Hands-on experience with **Java, Spring Boot, REST APIs, Microservices, Hibernate/JPA and SQL**
-* Experience working on **backend applications and SaaS products**
-* Strong understanding of **OOP, Collections, Multithreading, Exception Handling and Java 8+**
-* Familiar with **LLD, HLD, System Design and scalable backend architecture**
-* Experience with **Kafka, Redis, Docker and CI/CD**
-* Comfortable with **production debugging, bug fixing, code reviews and performance optimization**
-* Actively contributing to **open-source Java and distributed-systems projects**
+* Java Full Stack Software Engineer with **2+ years of professional experience**
+* Strong hands-on experience with **Java, Spring Boot, REST APIs, Microservices, Hibernate/JPA and SQL**
+* Experience developing frontend applications using **React.js and Angular**
+* Strong understanding of **Java 8+, OOP, Collections, Multithreading, Exception Handling and Stream API**
+* Experience building and consuming **RESTful APIs**
+* Familiar with **Microservices, distributed systems, LLD, HLD and System Design**
+* Experience with **PostgreSQL, MySQL, Kafka and Redis**
+* Experience with **Docker, Git, GitHub Actions, Maven, Linux and cloud platforms**
+* Comfortable working across the complete application lifecycle from **frontend development to backend services, database integration, testing and deployment**
+* Experience with **production debugging, bug fixing, code reviews and performance optimization**
+* Actively contributing to **open-source projects**
 
 ---
 
-## 🛠️ Core Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
+### 💻 Programming Languages
 
-`Java` · `SQL` · `Python`
+`Java` · `JavaScript` · `TypeScript` · `SQL` · `Python`
 
-### Backend
+### ☕ Java & Backend
 
-`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JDBC` · `REST APIs`
+`Core Java` · `Java 8+` · `OOP` · `Collections` · `Multithreading` · `Streams` · `Exception Handling`
 
-### Architecture
+### 🌱 Spring Ecosystem
 
-`Microservices` · `LLD` · `HLD` · `System Design` · `Distributed Systems`
+`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JPA` · `JDBC` · `Spring Security`
 
-### Databases
+### 🔗 API & Architecture
+
+`REST APIs` · `Microservices` · `API Integration` · `Distributed Systems` · `LLD` · `HLD` · `System Design`
+
+### ⚛️ Frontend — React
+
+`React.js` · `React Hooks` · `Components` · `State Management` · `REST API Integration` · `JavaScript`
+
+### 🅰️ Frontend — Angular
+
+`Angular` · `TypeScript` · `Components` · `Services` · `Routing` · `Forms` · `HTTP Client` · `REST API Integration`
+
+### 🎨 Web Technologies
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Bootstrap` · `JSON`
+
+### 🗄️ Databases
 
 `PostgreSQL` · `MySQL` · `Oracle`
 
-### Messaging & Caching
+### 📨 Messaging & Caching
 
 `Apache Kafka` · `Redis`
 
-### Frontend
+### 🐳 DevOps & Tools
 
-`React.js` · `Angular` · `JavaScript` · `HTML` · `CSS`
+`Docker` · `Git` · `GitHub` · `GitHub Actions` · `Maven` · `Linux` · `Postman` · `IntelliJ IDEA` · `VS Code`
 
-### DevOps & Tools
-
-`Docker` · `Git` · `GitHub Actions` · `Maven` · `Linux` · `Postman`
-
-### Cloud
+### ☁️ Cloud
 
 `Oracle Cloud Infrastructure (OCI)` · `AWS`
 
-### Testing
+### 🧪 Testing
 
 `JUnit` · `Mockito`
 
@@ -90,13 +121,17 @@ I enjoy solving backend engineering problems, improving system performance, fixi
 
 ## 🚀 Current Work
 
-* Building and improving **Java/Spring Boot backend applications**
-* Designing and developing **RESTful APIs**
-* Working with **Microservices architecture**
-* Working with distributed-system technologies such as **Kafka and Redis**
-* Debugging issues and improving application reliability and performance
-* Writing clean, maintainable and testable backend code
-* Contributing to open-source projects
+* Developing and improving **Java/Spring Boot backend applications**
+* Designing and implementing **RESTful APIs**
+* Building and integrating **Microservices**
+* Developing frontend features using **React.js and Angular**
+* Integrating frontend applications with **Spring Boot REST APIs**
+* Working with **PostgreSQL/MySQL databases**
+* Working with distributed technologies such as **Kafka and Redis**
+* Containerizing applications using **Docker**
+* Debugging production issues and improving application performance
+* Writing clean, maintainable, reusable and testable code
+* Participating in code reviews and open-source development
 
 ---
 
@@ -120,43 +155,66 @@ Participated in technical discussions around HTTP infrastructure and modularizat
 
 Contributed to investigating and fixing a UI-related issue in an open-source project.
 
-> I focus on meaningful contributions rather than contribution-count optimization.
+> I focus on meaningful contributions, collaboration, code quality, and continuous improvement.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Java / Spring Boot Backend
+### 🔹 Java Spring Boot Backend
 
-Java-based backend application demonstrating:
+Backend application demonstrating:
 
-`Java` · `Spring Boot` · `REST APIs` · `JPA` · `PostgreSQL`
+`Java` · `Spring Boot` · `REST APIs` · `Hibernate/JPA` · `PostgreSQL`
 
-### 🔹 Microservices System
+Features include RESTful APIs, database integration, validation, exception handling and clean backend architecture.
+
+---
+
+### 🔹 Java Microservices Application
 
 Distributed backend application demonstrating:
 
-`Spring Boot` · `Microservices` · `Kafka` · `Docker`
+`Java` · `Spring Boot` · `Microservices` · `Kafka` · `Docker`
 
-### 🔹 Full Stack Application
+Demonstrates service-to-service communication, event-driven processing, REST APIs and containerized deployment.
+
+---
+
+### 🔹 React + Spring Boot Full Stack Application
+
+Full-stack web application demonstrating:
+
+`React.js` · `JavaScript` · `Spring Boot` · `REST APIs` · `PostgreSQL`
+
+Frontend communicates with Spring Boot REST services to provide an end-to-end application experience.
+
+---
+
+### 🔹 Angular + Spring Boot Application
 
 Full-stack application demonstrating:
 
-`Java` · `Spring Boot` · `REST APIs` · `React.js`
+`Angular` · `TypeScript` · `Spring Boot` · `REST APIs` · `MySQL`
+
+Includes frontend components, routing, forms, HTTP communication and backend API integration.
 
 ---
 
 ## 📈 Engineering Interests
 
-* Backend Engineering
-* Distributed Systems
+* Java Backend Engineering
+* Java Full Stack Development
+* Spring Boot
 * Microservices
+* React.js
+* Angular
+* Distributed Systems
 * System Design
-* Performance Optimization
 * Cloud-Native Applications
+* Performance Optimization
 * Open Source
-* Developer Productivity
-* AI-assisted Software Engineering
+* AI-Assisted Software Engineering
 
 ---
 
@@ -172,8 +230,8 @@ Full-stack application demonstrating:
 
 ## 💡 Engineering Philosophy
 
-> **I believe in building systems that scale, not just writing code that works.**
+> **I believe in building scalable systems and complete products, not just writing code that works.**
 
 > **Open source is about impact, ownership, collaboration, and continuous improvement.**
 
-⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
+⭐ Feel free to explore my repositories, review my contributions, and connect with me for software engineering opportunities.
